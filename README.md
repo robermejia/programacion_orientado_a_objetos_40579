@@ -1,7 +1,7 @@
 # <center>Programación orientado a objetos - Sección 40579</center>
 ## Docente: Evelyn Marilyn RIVEROS HUAMAN
 <center>
-<img src="https://i.ibb.co/VjJkQwz/Captura-de-pantalla-2025-01-07-154518.png" style="width: 100% ; aspect-ratio:16/9">
+<img src="https://i.ibb.co/j60Lh0w/1.png" style="width: 100% ; aspect-ratio:16/9">
 </center>
 
 ## Grabaciones
